@@ -42,6 +42,7 @@ namespace FilterDigitApp
             stopwatchDiv.Stop();
             Console.WriteLine();
             Console.WriteLine(stopwatchDiv.ElapsedMilliseconds + "ms");
+            Console.WriteLine("Hello");
 
         }
     }
